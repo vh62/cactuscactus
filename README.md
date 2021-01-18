@@ -1,5 +1,7 @@
 ## Welcome to my site
 
+iOS | Augmented Reality | BA. Computer Science
+
 ### Tech Stack
 <p> Swift | SwiftUI | C++ | Java </p>
 
