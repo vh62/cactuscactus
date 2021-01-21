@@ -8,10 +8,8 @@ iOS | Augmented Reality | BA. Computer Science
 <p> A tutorial from sean's allen SwiftUI course, with my own modifications. The app let's you choose and order your appetizers</p>
 
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/19821123/104828800-09766180-583b-11eb-8ed0-fcb61f4cfd1b.png" width="180" />
-  <img src="https://user-images.githubusercontent.com/19821123/104828805-12673300-583b-11eb-91e1-a56ff720860a.png" width="180" /> 
-  <img src="https://user-images.githubusercontent.com/19821123/104828811-18f5aa80-583b-11eb-87d0-bb8500a9fd30.png" width="180" />
-  <img src="https://user-images.githubusercontent.com/19821123/105279342-54fb7900-5b75-11eb-8afb-0116012ec2a2.png" width="180" />
+  
+  <img src="https://user-images.githubusercontent.com/19821123/105279342-54fb7900-5b75-11eb-8afb-0116012ec2a2.png" width=250/>
 </p>
 
 ### Things I learned from this course
