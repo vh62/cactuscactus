@@ -1,7 +1,4 @@
----
 
-classes: wide
----
 
 ## Welcome to my site
 
