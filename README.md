@@ -9,7 +9,7 @@ iOS | Augmented Reality | BA. Computer Science
 
 <p> A tutorial from Sean's allen SwiftUI final Project <a href="https://seanallen.co/">Sean Allen</a>, with my own modifications. The app let's you choose and order your appetizers</p>
 
-<p float="center">
+<p float="left">
   
   <img src="https://user-images.githubusercontent.com/19821123/106019383-9669b800-6090-11eb-9dde-3b42b3f83282.png" width=250/>
    <img src="https://user-images.githubusercontent.com/19821123/106019389-979ae500-6090-11eb-873e-09fe57ab7ea2.png" width=250/>
