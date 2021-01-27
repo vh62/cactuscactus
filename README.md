@@ -19,7 +19,6 @@ iOS | Augmented Reality | BA. Computer Science
 </p>
 
 ### Things I learned from this course
-
 <ol>
   <li>Further practiced network calls from both data and images</li>
 </ol> 
