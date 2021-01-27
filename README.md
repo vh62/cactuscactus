@@ -30,11 +30,6 @@ iOS | Augmented Reality | BA. Computer Science
   <li> I am recreating this project in SwiftUI. Based on <a href="https://www.youtube.com/watch?v=cTNhMgNV53s&t=1236s">Youtube Video</li>
 </ol>
 
-### Thoughts
-<p> Ideally, the user profile would not be stored in the appstorage but in the firebase backend. 
-Reading and writing data to @AppStorage can be costly and affect launch time. 
-This article is a really good write up on @AppStorage. <a href="https://medium.com/swlh/introducing-appstorage-in-swiftui-470a56f5ba9e">Appstorage</a></p>
-
 
 <p> A tutorial from Sean's allen SwiftUI final Project <a href="https://seanallen.co/">Sean Allen</a>, with my own modifications. The app let's you choose and order your appetizers</p>
 
