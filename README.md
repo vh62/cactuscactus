@@ -7,7 +7,7 @@ iOS | Augmented Reality | BA. Computer Science
 ### Tech Stack
 <p> Swift | SwiftUI | C++ | Java </p>
 
-<p> A tutorial from sean's allen SwiftUI course, with my own modifications. The app let's you choose and order your appetizers</p>
+<p> A tutorial from Sean's allen SwiftUI final Project <a href="https://seanallen.co/">Sean Allen</a>, with my own modifications. The app let's you choose and order your appetizers</p>
 
 <p float="center">
   
