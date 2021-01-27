@@ -1,5 +1,7 @@
 ## Welcome to my site
 
+As an aspiring iOS Engineer, I am building this site to both serve as a portfolio for my project and to document my thought processes while building these projects
+
 iOS | Augmented Reality | BA. Computer Science
 
 ### Tech Stack
@@ -9,7 +11,9 @@ iOS | Augmented Reality | BA. Computer Science
 
 <p float="center">
   
-  <img src="https://user-images.githubusercontent.com/19821123/105279342-54fb7900-5b75-11eb-8afb-0116012ec2a2.png" width=250/>
+  <img src="https://user-images.githubusercontent.com/19821123/106019383-9669b800-6090-11eb-9dde-3b42b3f83282.png" width=250/>
+   <img src="https://user-images.githubusercontent.com/19821123/106019389-979ae500-6090-11eb-873e-09fe57ab7ea2.png" width=250/>
+    <img src="https://user-images.githubusercontent.com/19821123/106019392-98cc1200-6090-11eb-87ea-0dd209b6f326.png" width=250/>
 </p>
 
 ### Things I learned from this course
@@ -17,3 +21,16 @@ iOS | Augmented Reality | BA. Computer Science
   <li>downloading images network call</li>
   <li>@EnvironmentObject to share data between views</li>
   <li>@Appstorage for user data</li>
+
+### Things I added
+<ol>
+  <li> Created a recommendation page that shows random items from the menu before you checkout your final order</li>
+
+### What I'm currently adding
+<ol>
+  <li> Log in screen, and integrating with firebase backend </li>
+  
+### Thoughts
+Ideally, the user profile would not be stored in the appstorage but in the firebase backend. 
+Reading and writing data to @AppStorage can be costly and affect launch time. 
+This article is a really good write up on @AppStorage. <a href="https://medium.com/swlh/introducing-appstorage-in-swiftui-470a56f5ba9e">Appstorage</a>
