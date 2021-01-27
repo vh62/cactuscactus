@@ -1,3 +1,4 @@
+classes: wide
 ## Welcome to my site
 
 As an aspiring iOS Engineer, I am building this site to both serve as a portfolio for my projects and to document my thought processes while building these projects
