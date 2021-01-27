@@ -1,6 +1,6 @@
 ## Welcome to my site
 
-As an aspiring iOS Engineer, I am building this site to both serve as a portfolio for my project and to document my thought processes while building these projects
+As an aspiring iOS Engineer, I am building this site to both serve as a portfolio for my projects and to document my thought processes while building these projects
 
 iOS | Augmented Reality | BA. Computer Science
 
