@@ -73,9 +73,9 @@ This article is a really good write up on @AppStorage. <a href="https://medium.c
 
 <p float="left">
   
-  <img src="https://user-images.githubusercontent.com/19821123/106019383-9669b800-6090-11eb-9dde-3b42b3f83282.png" width=180/>
-   <img src="https://user-images.githubusercontent.com/19821123/106019389-979ae500-6090-11eb-873e-09fe57ab7ea2.png" width=180/>
-    <img src="https://user-images.githubusercontent.com/19821123/106019392-98cc1200-6090-11eb-87ea-0dd209b6f326.png" width=180/>
+  <img src="https://user-images.githubusercontent.com/19821123/106040621-b7d69e00-60a8-11eb-96b7-5246c6f329c9.png" width=180/>
+   <img src="https://user-images.githubusercontent.com/19821123/106040624-b86f3480-60a8-11eb-9df0-4469d553161e.png" width=180/>
+    <img src="https://user-images.githubusercontent.com/19821123/106040626-b907cb00-60a8-11eb-9e17-313b78a2fa2d.png" width=180/>
 </p>
 
 ### Things I learned from this course
