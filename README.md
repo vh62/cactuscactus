@@ -26,7 +26,7 @@ iOS | Augmented Reality | BA. Computer Science
 ### What I'm currently adding
 
 <ol>
-  <li> I am recreating this project in SwiftUI. Based on <a href="https://www.youtube.com/watch?v=cTNhMgNV53s&t=1236s">Youtube Video</li>
+  <li> I am recreating this project in SwiftUI. Based on <a href="https://www.youtube.com/watch?v=cTNhMgNV53s&t=1236s">Youtube Video</a></li>
 </ol>
 
 
