@@ -21,15 +21,18 @@ iOS | Augmented Reality | BA. Computer Science
   <li>downloading images network call</li>
   <li>@EnvironmentObject to share data between views</li>
   <li>@Appstorage for user data</li>
+</ol> 
 
 ### Things I added
 <ol>
   <li> Created a recommendation page that shows random items from the menu before you checkout your final order</li>
+</ol>
 
 ### What I'm currently adding
 <ol>
   <li> Log in screen, and integrating with firebase backend </li>
-  
+</ol>
+
 ### Thoughts
 Ideally, the user profile would not be stored in the appstorage but in the firebase backend. 
 Reading and writing data to @AppStorage can be costly and affect launch time. 
