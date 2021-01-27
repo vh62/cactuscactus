@@ -7,13 +7,22 @@ iOS | Augmented Reality | BA. Computer Science
 ### Tech Stack
 <p> Swift | SwiftUI | C++ | Java </p>
 
+<p> A personal project I created to practice network calls and RestAPIs in swift. </p>
+
+<p float="left">
+  
+  <img src="https://user-images.githubusercontent.com/19821123/106037447-b1462780-60a4-11eb-8005-5bbecb725fdf.png" width=200/>
+   <img src="https://user-images.githubusercontent.com/19821123/106037463-b5724500-60a4-11eb-8679-d95c3bfbe961.png" width=200/>
+    <img src="https://user-images.githubusercontent.com/19821123/106037471-b6a37200-60a4-11eb-97d1-514def284e0d.png" width=200/>
+</p>
+
 <p> A tutorial from Sean's allen SwiftUI final Project <a href="https://seanallen.co/">Sean Allen</a>, with my own modifications. The app let's you choose and order your appetizers</p>
 
 <p float="left">
   
-  <img src="https://user-images.githubusercontent.com/19821123/106019383-9669b800-6090-11eb-9dde-3b42b3f83282.png" width=200/>
-   <img src="https://user-images.githubusercontent.com/19821123/106019389-979ae500-6090-11eb-873e-09fe57ab7ea2.png" width=200/>
-    <img src="https://user-images.githubusercontent.com/19821123/106019392-98cc1200-6090-11eb-87ea-0dd209b6f326.png" width=200/>
+  <img src="https://user-images.githubusercontent.com/19821123/106019383-9669b800-6090-11eb-9dde-3b42b3f83282.png" width=250/>
+   <img src="https://user-images.githubusercontent.com/19821123/106019389-979ae500-6090-11eb-873e-09fe57ab7ea2.png" width=250/>
+    <img src="https://user-images.githubusercontent.com/19821123/106019392-98cc1200-6090-11eb-87ea-0dd209b6f326.png" width=250/>
 </p>
 
 ### Things I learned from this course
