@@ -12,7 +12,6 @@ iOS | Augmented Reality | BA. Computer Science
 <p> A personal project I created to practice network calls and RestAPIs in swift. </p>
 
 <p float="left">
-  
   <img src="https://user-images.githubusercontent.com/19821123/106037447-b1462780-60a4-11eb-8005-5bbecb725fdf.png" width=180/>
    <img src="https://user-images.githubusercontent.com/19821123/106037463-b5724500-60a4-11eb-8679-d95c3bfbe961.png" width=180/>
     <img src="https://user-images.githubusercontent.com/19821123/106037471-b6a37200-60a4-11eb-97d1-514def284e0d.png" width=180/>
@@ -24,6 +23,7 @@ iOS | Augmented Reality | BA. Computer Science
 </ol> 
 
 ### What I'm currently adding
+
 <ol>
   <li> I am recreating this project in SwiftUI. Based on <a href="https://www.youtube.com/watch?v=cTNhMgNV53s&t=1236s">Youtube Video</a></li>
 </ol>
@@ -82,12 +82,10 @@ This article is a really good write up on @AppStorage. <a href="https://medium.c
 </ol> 
 
 
-### Thought
-
+### Thoughts
 This course is really a masterpiece. Sean Allen's makes geninue mistakes along the way which only adds to the learning experience of this course. <a href="https://seanallen.co/">Sean Allen</a>. I have not modified anything from the tutorial. I want to leave it as it is as a guide for future apps. 
 
 ### Learning takeways
-
 ARC really caught my attention in this course. <a href="https://medium.com/computed-comparisons/garbage-collection-vs-automatic-reference-counting-a420bd4c7c81">ARC vs Garbage Collection</a> <a href="https://medium.com/computed-comparisons/garbage-collection-vs-automatic-reference-counting-a420bd4c7c81">ARC explained in detail</a>
 
 Grand central dispatch an DispatchQueues in swift. This is one big concept I still have to wrap my head around. 
