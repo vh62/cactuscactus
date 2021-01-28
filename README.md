@@ -24,7 +24,6 @@ iOS | Augmented Reality | BA. Computer Science
 </ol> 
 
 ### What I'm currently adding
-
 <ol>
   <li> I am recreating this project in SwiftUI. Based on <a href="https://www.youtube.com/watch?v=cTNhMgNV53s&t=1236s">Youtube Video</a></li>
 </ol>
@@ -72,6 +71,7 @@ This article is a really good write up on @AppStorage. <a href="https://medium.c
 </p>
 
 ### Things I learned from this course
+
 <ol>
   <li>Network calls</li>
   <li>Automatic reference count and memory leaks</li>
@@ -82,10 +82,12 @@ This article is a really good write up on @AppStorage. <a href="https://medium.c
 </ol> 
 
 
-### Thoughts
+### Thought
+
 This course is really a masterpiece. Sean Allen's makes geninue mistakes along the way which only adds to the learning experience of this course. <a href="https://seanallen.co/">Sean Allen</a>. I have not modified anything from the tutorial. I want to leave it as it is as a guide for future apps. 
 
 ### Learning takeways
+
 ARC really caught my attention in this course. <a href="https://medium.com/computed-comparisons/garbage-collection-vs-automatic-reference-counting-a420bd4c7c81">ARC vs Garbage Collection</a> <a href="https://medium.com/computed-comparisons/garbage-collection-vs-automatic-reference-counting-a420bd4c7c81">ARC explained in detail</a>
 
 Grand central dispatch an DispatchQueues in swift. This is one big concept I still have to wrap my head around. 
