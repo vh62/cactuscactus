@@ -23,7 +23,6 @@ iOS | Augmented Reality | BA. Computer Science
 </ol> 
 
 ### What I'm currently adding
-
 <ol>
   <li> I am recreating this project in SwiftUI. Based on <a href="https://www.youtube.com/watch?v=cTNhMgNV53s&t=1236s">Youtube Video</a></li>
 </ol>
@@ -51,7 +50,6 @@ iOS | Augmented Reality | BA. Computer Science
 </ol>
 
 ### What I'm currently adding
-
 <ol>
   <li> Log in screen, and integrating with firebase backend </li>
 </ol>
@@ -62,7 +60,7 @@ Reading and writing data to @AppStorage can be costly and affect launch time.
 This article is a really good write up on @AppStorage. <a href="https://medium.com/swlh/introducing-appstorage-in-swiftui-470a56f5ba9e">Appstorage</a>
 
 
-<p> Github Followers from Sean Allen take home project. The App lets you search for a github user and see his followers. 
+<p> Github Followers from Sean Allen take home project. The App lets you search for a github user and see his followers.</p>
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/19821123/106040621-b7d69e00-60a8-11eb-96b7-5246c6f329c9.png" width=180/>
@@ -71,7 +69,6 @@ This article is a really good write up on @AppStorage. <a href="https://medium.c
 </p>
 
 ### Things I learned from this course
-
 <ol>
   <li>Network calls</li>
   <li>Automatic reference count and memory leaks</li>
