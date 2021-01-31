@@ -9,7 +9,7 @@ iOS | Augmented Reality | BA. Computer Science
 ### Tech Stack
 <p> Swift | SwiftUI | C++ | Java | Javascript </p>
 
-<p> iOS 14 see's apples new "blastdoor" system security. blastDoor is a sandboxed service that unwrapped the messages separately from the OS in a secure environment, prevent any malicious software inside the messages from interacting with the operating system and accessing user data.</p>
+<p> iOS 14 see's apples new "blastdoor" system security. blastDoor is a sandboxed service that unwrapped the messages separately from the OS in a secure environment, prevent any malicious software inside the messages from interacting with the operating system and accessing user data.<a href= "https://www.zdnet.com/article/google-researcher-discovers-new-ios-security-system/">Source</a></p>
 <p> A personal project I created to practice network calls and RestAPIs in swift. </p>
 
 <p float="left">
