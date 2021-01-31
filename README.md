@@ -2,13 +2,14 @@
 
 <h1>Welcome to my site</h1>
 
-As an aspiring iOS Engineer, I am building this site to both serve as a portfolio for my projects and to document my thought processes while building these projects
+As an aspiring Software Engineer, I am building this site to both serve as a portfolio for my projects and to document my thought processes while building these projects. I intend to write on any tech related topics I find interesting here. 
 
 iOS | Augmented Reality | BA. Computer Science
 
 ### Tech Stack
-<p> Swift | SwiftUI | C++ | Java </p>
+<p> Swift | SwiftUI | C++ | Java | Javascript </p>
 
+<p> iOS 14 see's apples new "blastdoor" system security. blastDoor is a sandboxed service that unwrapped the messages separately from the OS in a secure environment, prevent any malicious software inside the messages from interacting with the operating system and accessing user data.</p>
 <p> A personal project I created to practice network calls and RestAPIs in swift. </p>
 
 <p float="left">
