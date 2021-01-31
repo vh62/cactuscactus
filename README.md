@@ -64,6 +64,7 @@ Ideally, the user profile would not be stored in the appstorage but in the fireb
 Reading and writing data to @AppStorage can be costly and affect launch time. 
 This article is a really good write up on @AppStorage. <a href="https://medium.com/swlh/introducing-appstorage-in-swiftui-470a56f5ba9e">Appstorage</a>
 
+<hr>
 
 <p> Github Followers from Sean Allen take home project. The App lets you search for a github user and see his followers.</p>
 
