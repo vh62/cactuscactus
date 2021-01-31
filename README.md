@@ -3,7 +3,9 @@
 <h1>Welcome to my site</h1>
 
 As an aspiring Software Engineer, I am building this site to both serve as a portfolio for my projects and to document my thought processes while building these projects. I'm blogging about the latest developments in AR/VR, security related issues, iOS development. Feel free to drop me a comment.
-BA. Computer Science
+BA. 
+
+Computer Science
 
 ### Tech Stack
 <p> Swift | SwiftUI | C++ | Java | Javascript </p>
