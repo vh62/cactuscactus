@@ -14,7 +14,7 @@ Computer Science
 
 <hr>
 Build a simple MapApp to find locations and display a carousel bar in swift from LBTA. 
-![](Map_IOS.gif)
+<img src= "Map_IOS.gif" width=200/>
 
 
 
