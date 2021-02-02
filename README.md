@@ -13,6 +13,12 @@ Computer Science
 <p> iOS 14 see's apples new "blastdoor" system security. BlastDoor is a sandboxed service that unwraps the messages separately from the OS in a secure environment, prevent any malicious software inside the messages from interacting with the operating system and accessing user data.<a href= "https://www.zdnet.com/article/google-researcher-discovers-new-ios-security-system/">Source</a></p>
 
 <hr>
+Build a simple MapApp to find locations and display a carousel bar in swift from LBTA. 
+![](Map_IOS.gif)
+
+
+
+<hr>
 
 <p> A personal project I created to practice network calls and RestAPIs in swift. </p>
 
