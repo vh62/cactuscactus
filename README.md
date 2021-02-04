@@ -14,6 +14,7 @@ As an aspiring Software Engineer, I am building this site to both serve as a por
 <hr>
 Build a simple MapApp to find locations and display a carousel bar in swift from LBTA. 
 <img src= "Map_IOS.gif" width=200/>
+<p> <a href="https://github.com/vh62/iOS_App_MapDirectionsGooglePlaces">Link to Code</a></p>
 
 
 
