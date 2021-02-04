@@ -15,7 +15,7 @@ As an aspiring Software Engineer, I am building this site to both serve as a por
 <p>Fun app to add robots to your workspace using ARkit with SwiftUI</p>
 
 
-<img src="ezgif.com-gif-maker.gif"/>
+<img src="ezgif.com-gif-maker.gif" width=220/>
 
 <hr>
 
