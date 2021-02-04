@@ -9,6 +9,16 @@ As an aspiring Software Engineer, I am building this site to both serve as a por
 ### Tech Stack
 <p> Swift | SwiftUI | C++ | Java | Javascript </p>
 
+<hr>
+
+### iOS_App_AugmentedRealityForFun
+<p>Fun app to add robots to your workspace using ARkit with SwiftUI</p>
+
+
+<img src= "ezgif.com-gif-maker.gif" width=220/>
+
+<hr>
+
 <p> iOS 14 see's apples new "blastdoor" system security. BlastDoor is a sandboxed service that unwraps the messages separately from the OS in a secure environment, prevent any malicious software inside the messages from interacting with the operating system and accessing user data.<a href= "https://www.zdnet.com/article/google-researcher-discovers-new-ios-security-system/">Source</a></p>
 
 <hr>
@@ -22,6 +32,7 @@ Build a simple MapApp to find locations and display a carousel bar in swift from
 
 <hr>
 
+### MovieRoom App
 <p> A personal project I created to practice network calls and RestAPIs in swift. </p>
 
 <p float="left">
@@ -41,6 +52,8 @@ Build a simple MapApp to find locations and display a carousel bar in swift from
 </ol>
 
 <hr>
+
+### Appetizer App
 
 <p> A tutorial from Sean's allen SwiftUI final Project <a href="https://seanallen.co/">Sean Allen</a>, with my own modifications. The app let's you choose and order your appetizers</p>
 <p> <a href="https://github.com/vh62/iOS_App_AppetizerApp">Link to Code</a></p>
@@ -76,6 +89,8 @@ Reading and writing data to @AppStorage can be costly and affect launch time.
 This article is a really good write up on @AppStorage. <a href="https://medium.com/swlh/introducing-appstorage-in-swiftui-470a56f5ba9e">Appstorage</a>
 
 <hr>
+
+### Github Followers App
 
 <p> Github Followers from Sean Allen take home project. The App lets you search for a github user and see his followers.</p>
 <p> <a href="https://github.com/vh62/iOS_App_Github_Followers">Link to Code</a></p>
