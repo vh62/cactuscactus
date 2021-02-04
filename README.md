@@ -41,6 +41,8 @@ Build a simple MapApp to find locations and display a carousel bar in swift from
 <hr>
 
 <p> A tutorial from Sean's allen SwiftUI final Project <a href="https://seanallen.co/">Sean Allen</a>, with my own modifications. The app let's you choose and order your appetizers</p>
+<p> <a href="https://github.com/vh62/iOS_App_AppetizerApp">Link to Code</a></p>
+
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/19821123/106019383-9669b800-6090-11eb-9dde-3b42b3f83282.png" width=220/>
@@ -74,6 +76,7 @@ This article is a really good write up on @AppStorage. <a href="https://medium.c
 <hr>
 
 <p> Github Followers from Sean Allen take home project. The App lets you search for a github user and see his followers.</p>
+<p> <a href="https://github.com/vh62/iOS_App_Github_Followers">Link to Code</a></p>
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/19821123/106040621-b7d69e00-60a8-11eb-96b7-5246c6f329c9.png" width=220/>
