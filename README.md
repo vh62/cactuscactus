@@ -9,6 +9,10 @@ As an aspiring Software Engineer, I am building this site to both serve as a por
 ### Tech Stack
 <p> Swift | SwiftUI | C++ | Java | Javascript </p>
 
+### Newest Web Projects
+<a href="https://webstack-memories-app.netlify.app/Memories">MemoriesWebsite</a>
+<a href="https://viks-chat-app.netlify.app/">Chat App. Login username:zack, password: 123123</a>
+
 <hr>
 
 ### iOS_App_AugmentedRealityForFun
