@@ -10,9 +10,9 @@ As an aspiring Software Engineer, I am building this site to both serve as a por
 <p> Swift | SwiftUI | C++ | Java | Javascript </p>
 
 ### Newest Web Projects
-Click to see this memories web app built with react<a href="https://webstack-memories-app.netlify.app/">MemoriesWebsite</a><br>
+Click to see this memories web app built with react. ->>> <a href="https://webstack-memories-app.netlify.app/">MemoriesWebsite</a><br>
 
-Click to see my new chat app, only managed to do the basic functionalities of the app using chat-engine-js<a href="https://viks-chat-app.netlify.app/">Chat App. Login username:zack, password: 123123</a>
+Click to see my new chat app, only managed to do the basic functionalities of the app using chat-engine-js ->>> <a href="https://viks-chat-app.netlify.app/">Chat App. Login username:zack, password: 123123</a>
 
 <hr>
 
