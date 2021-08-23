@@ -127,4 +127,6 @@ Grand central dispatch an DispatchQueues in swift. This is one big concept I sti
 Some really good links for reference include. 
 <a href="https://medium.com/@KentaKodashima/swift-grand-central-dispatch-gcd-80bcb16a147f">GCD</a>
 
-![image](https://user-images.githubusercontent.com/19821123/129929276-cdca3cc0-44fc-4cfa-aad5-9c96d4a84bbe.png)
+![image](https://user-images.githubusercontent.com/19821123/130390593-9960eadc-1c0c-4b2d-8f48-a28046fc4972.png)
+
+<p> Swift | SwiftUI | C++ | Java | Javascript </p>
